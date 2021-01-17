@@ -1,2 +1,2 @@
 # GameOfTheGenerals
-Python
+Python based Game of the Generals board game.
