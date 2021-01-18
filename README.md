@@ -3,7 +3,7 @@ Python based Game of the Generals board game.
 
 
 TODO:
--Backend
+- Backend
  - Board
  - Rankings
  - Pieces placement
