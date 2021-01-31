@@ -1,11 +1,11 @@
-# GameOfTheGenerals
-Python based Game of the Generals board game.
+# Salpakan (Game Of The Generals)
+A Python API for "Game of the Generals" game
 
 
 TODO:
 - Backend
- - Board
- - Rankings
- - Pieces placement
- - Pieces movement
- - Battle of Pieces
+ 	- Board
+ 	- Rankings
+ 	- Pieces placement
+ 	- Pieces movement
+ 	- Battle of Pieces
